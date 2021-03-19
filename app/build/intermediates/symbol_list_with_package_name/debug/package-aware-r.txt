@@ -1252,8 +1252,14 @@ string common_google_play_services_wear_update_text
 string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
+string default_web_client_id
 string desc_camera_source_activity
 string download_error
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
 string low_storage_error
 string menu_item_settings
 string no_camera_permission
@@ -1302,6 +1308,7 @@ string pref_title_face_detector_performance_mode
 string pref_title_front_camera_preview_size
 string pref_title_rear_camera_preview_size
 string pref_toast_invalid_min_face_size
+string project_id
 string search_menu_title
 string select_image
 string start_over
